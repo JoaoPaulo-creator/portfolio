@@ -12,7 +12,7 @@ export default async function Home() {
 
 
   return (
-    <div className="max-w-5xl flex flex-col mx-auto mt-6 mb-6 border border-blue-700">
+    <div className="max-w-5xl flex flex-col mx-auto mt-6 mb-6">
       <div className="flex flex-row">
         <div className="mx-2 my-4 mr-6">
 
@@ -46,7 +46,7 @@ export default async function Home() {
         <div className="my-4 max-w-screen-sm ml-16">
           <strong className="text-2xl">SOBRE MIM</strong>
           <div className="mt-4 text-md">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis odio quam veritatis rerum optio! Blanditiis esse soluta quia est, temporibus aut tempora vel odio id asperiores voluptatibus quis ratione numquam?
+            Sou dev NodeJS há um ano, apaixonado pelo desenvolvimento backend, e curioso sobre novas tecnologias. Atualmente estudo front end e com o aprendizado fiz esse portfolio
           </div>
         </div>
       </div>
